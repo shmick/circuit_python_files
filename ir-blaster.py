@@ -71,8 +71,3 @@ while True:
         cmd = "HDMI1"
         transmit(dev, cmd)
     sleep(0.1)
-
-
-
-
-    
